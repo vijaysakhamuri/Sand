@@ -1,0 +1,234 @@
+#################### Static Analysis ####################
+File type of the malware is: 
+Lab_01-3.malware: PE32 executable (console) Intel 80386, for MS Windows
+
+md5sum of the file is:6c2a33512b8b0ec906982783e82b9678
+Strings of the binary are:
+!This program cannot be run in DOS mode.
+Lclark
+LOL0
+LOL1
+.rsrc
+3.91
+LOL!
+~,<$
+=!AU
+:StF#Q
+o>Ev
+h0`@
+R>fbj
+Rh<Y7
+NvN6&(
+{kF6
+GIt%q)
+:[^_
+"MW.e
+}wWV
+:Q3h
+M@'~
+t%M_
+`/$Y%
+}xu"
+oca 
+WtdB
+	9[o
+ht l
+x?6 
+\kg"
+}7ZP
+Y]5#D
+'9!v
+A=t!
+u	VG
+a,>1
+tA8~
+K81&<
+hlAcQ
+ S5"
+{Vt"
+.I=`
+;5"s
+eYT7[iS
+WuO)
+<<=t
+=i2@
+I"U4;
+A{%"uD
+Fe t		
+HcJf
+"\:@C
+,@u%A9}m
+-lPM
+vkpf9
+/dNP
+s1\e
+(`jt
+[W=\
+1][;Q
+:4i*
+SGBu
+v95c}R
+mab,94h
+GFWU~
+j[;]
+o-}hu
+aVC20XC00
+>!se[
+tEVU
+3x<%S
+@t<v)
+d<5*Y,_
+0j}696M
+tV`6
+YHXi	O
+%\89Z
+PaKd;5F
+	dEn
+v;0Y
+Ph s
+d=!D
+%*nPn
+Pn6C
+v^'qx
+^}5"	VHz(B
+b-R8p
+7LhK13
+K-JYfD.
+X@(f
+|90tr0B=
+RH!R
+WlY3
+ '7K
+_[j$
+#F:I#
+MV4#7
+ V?'
+~B!A
+ 9yke
+HnPOG0
+-[sV
+02^_z
+0CBp
+*g|9
+EZ:[4M
+T\df
+`j?I_
+@|*Z
+H	9o
+o5TE
+t~OOL
+;#+#
+uY$s
+4/Y[
+5zF63y4
+XMvLW
+wj d_
+	7j=
+]u0_
+Aa+s
+ZK|N$
+bbAd
+u)r3
+a)tx
+x bB=
+V/WsU*
+;zH5
+< s<
+P,Y@! k,
+F)EQ^VV
+3P3I>#;4;
+S,4 
+DLT\B
+iWt<
+ABCDEFGH
+IJKLMNOPQRST%XYZabcdefghij
+klmnopqrstuvwxyz0123456789+/G]!
+, (Z
+U700WP
+)w(null
+me error
+SING
+R6028
+- Kablf
+to iniValiz
+heap7
+_$ spac#f{lowi8
+on76
+g ystd5pur+
+l(_4
+_*ex\/X
+eX1so
++8F$
+[aHm
+/lock
+p@gram 
+Jm6/09O
+50.+8ar
+gu(s_02f
+vnng
+M-`9
+C++ R
+%,klwn>
+GetLa2
+om;W
+essageBoxA
+3s%32.d*
+7"@Mozi[a/4
+http://%s
+ld%exe.
+:( h
+w|3`
+2 C 
+W_Y{l
+4M7m
+.'.,
+KIZXORXZWV
+LZI^ZU
+BHRH
+XTVj
+bResource
+ad+A
+GlobalAl
+`S$of*Fin
+$A+etModuleHa
+lU=v
+MTypeW
+&LCMap
+t	;W
+7UByteToWideCharxlush}f
+iBuffersRdx5
+VscAddr
++GCo
+mm#n
+Exi-)Kv
+Gn$Unhv
+upInfo
+)=da{
+OEM	
+I_n?
+'ZPEL
+.text
+XPTPSW
+KERNEL32.DLL
+WININET.dll
+WS2_32.dll
+LoadLibraryA
+GetProcAddress
+VirtualProtect
+VirtualAlloc
+VirtualFree
+ExitProcess
+InternetOpenA
+
+{u'scan_id': u'212b29a8e36ccc8f65205122e33d84940a156a9a91329f747a713f988a157948-1490165894', u'sha1': u'abe778ca6d429dd7cd21ab2fbd226f421390050d', u'resource': u'6c2a33512b8b0ec906982783e82b9678', u'response_code': 1, u'scan_date': u'2017-03-22 06:58:14', u'permalink': u'https://www.virustotal.com/file/212b29a8e36ccc8f65205122e33d84940a156a9a91329f747a713f988a157948/analysis/1490165894/', u'verbose_msg': u'Scan finished, information embedded', u'sha256': u'212b29a8e36ccc8f65205122e33d84940a156a9a91329f747a713f988a157948', u'positives': 40, u'total': 61, u'md5': u'6c2a33512b8b0ec906982783e82b9678', u'scans': {u'Bkav': {u'detected': True, u'version': u'1.3.0.8876', u'result': u'W32.Clod578.Trojan.d078', u'update': u'20170321'}, u'MicroWorld-eScan': {u'detected': True, u'version': u'12.0.250.0', u'result': u'Trojan.GenericKD.3181270', u'update': u'20170322'}, u'nProtect': {u'detected': False, u'version': u'2017-03-22.02', u'result': None, u'update': u'20170322'}, u'CMC': {u'detected': False, u'version': u'1.1.0.977', u'result': None, u'update': u'20170317'}, u'CAT-QuickHeal': {u'detected': True, u'version': u'14.00', u'result': u'(Suspicious) - DNAScan', u'update': u'20170322'}, u'McAfee': {u'detected': True, u'version': u'6.0.6.653', u'result': u'RDN/Generic Downloader.x', u'update': u'20170322'}, u'Malwarebytes': {u'detected': False, u'version': u'2.1.1.1115', u'result': None, u'update': u'20170322'}, u'VIPRE': {u'detected': True, u'version': u'56818', u'result': u'Trojan.Win32.Generic!BT', u'update': u'20170322'}, u'AegisLab': {u'detected': True, u'version': u'4.2', u'result': u'Troj.Downloader.W32.Agent.leJs', u'update': u'20170322'}, u'TheHacker': {u'detected': True, u'version': u'6.8.0.5.1377', u'result': u'Posible_Worm32', u'update': u'20170321'}, u'K7GW': {u'detected': False, u'version': u'10.6.22791', u'result': None, u'update': u'20170322'}, u'K7AntiVirus': {u'detected': False, u'version': u'10.6.22792', u'result': None, u'update': u'20170322'}, u'Arcabit': {u'detected': True, u'version': u'1.0.0.802', u'result': u'Trojan.Generic.D308AD6', u'update': u'20170322'}, u'Invincea': {u'detected': True, u'version': u'6.2.2.24419', u'result': u'pws.win32.onlinegames.nz', u'update': u'20170203'}, u'Baidu': {u'detected': False, u'version': u'1.0.0.2', u'result': None, u'update': u'20170322'}, u'F-Prot': {u'detected': True, u'version': u'4.7.1.166', u'result': u'W32/Threat-HLLSI-based!Maximus', u'update': u'20170322'}, u'Symantec': {u'detected': True, u'version': u'1.2.1.0', u'result': u'Trojan.Gen.2', u'update': u'20170321'}, u'ESET-NOD32': {u'detected': False, u'version': u'15128', u'result': None, u'update': u'20170322'}, u'TrendMicro-HouseCall': {u'detected': True, u'version': u'9.900.0.1004', u'result': u'TROJ_GEN.R047C0FCL17', u'update': u'20170322'}, u'Avast': {u'detected': True, u'version': u'8.0.1489.320', u'result': u'Win32:Malware-gen', u'update': u'20170322'}, u'ClamAV': {u'detected': False, u'version': u'0.99.2.0', u'result': None, u'update': u'20170322'}, u'Kaspersky': {u'detected': True, u'version': u'15.0.1.13', u'result': u'UDS:DangerousObject.Multi.Generic', u'update': u'20170322'}, u'BitDefender': {u'detected': True, u'version': u'7.2', u'result': u'Trojan.GenericKD.3181270', u'update': u'20170322'}, u'NANO-Antivirus': {u'detected': True, u'version': u'1.0.70.15972', u'result': u'Trojan.Win32.ThreatHLLSIbased.eeiqjt', u'update': u'20170322'}, u'ViRobot': {u'detected': False, u'version': u'2014.3.20.0', u'result': None, u'update': u'20170322'}, u'Tencent': {u'detected': True, u'version': u'1.0.0.1', u'result': u'Win32.Trojan.Downloader.Wozy', u'update': u'20170322'}, u'Ad-Aware': {u'detected': True, u'version': u'3.0.3.794', u'result': u'Trojan.GenericKD.3181270', u'update': u'20170322'}, u'Emsisoft': {u'detected': True, u'version': u'4.0.0.834', u'result': u'Trojan.GenericKD.3181270 (B)', u'update': u'20170322'}, u'Comodo': {u'detected': False, u'version': u'26799', u'result': None, u'update': u'20170322'}, u'F-Secure': {u'detected': True, u'version': u'11.0.19100.45', u'result': u'Trojan.GenericKD.3181270', u'update': u'20170322'}, u'DrWeb': {u'detected': False, u'version': u'7.0.28.2020', u'result': None, u'update': u'20170322'}, u'Zillya': {u'detected': False, u'version': u'2.0.0.3239', u'result': None, u'update': u'20170321'}, u'TrendMicro': {u'detected': True, u'version': u'9.740.0.1012', u'result': u'TROJ_GEN.R047C0FCL17', u'update': u'20170322'}, u'McAfee-GW-Edition': {u'detected': True, u'version': u'v2015', u'result': u'BehavesLike.Win32.Mydoom.lc', u'update': u'20170322'}, u'Sophos': {u'detected': True, u'version': u'4.98.0', u'result': u'Mal/Generic-S', u'update': u'20170322'}, u'Ikarus': {u'detected': True, u'version': u'0.1.5.2', u'result': u'Trojan-Downloader', u'update': u'20170321'}, u'Cyren': {u'detected': True, u'version': u'5.4.30.7', u'result': u'W32/Threat-HLLSI-based!Maximus', u'update': u'20170322'}, u'Jiangmin': {u'detected': False, u'version': u'16.0.100', u'result': None, u'update': u'20170322'}, u'Webroot': {u'detected': True, u'version': u'1.0.0.207', u'result': u'Malicious', u'update': u'20170322'}, u'Avira': {u'detected': True, u'version': u'8.3.3.4', u'result': u'TR/Downloader.Gen', u'update': u'20170321'}, u'Antiy-AVL': {u'detected': True, u'version': u'1.0.0.1', u'result': u'Trojan/Win32.BTSGeneric', u'update': u'20170322'}, u'Kingsoft': {u'detected': False, u'version': u'2013.8.14.323', u'result': None, u'update': u'20170322'}, u'Endgame': {u'detected': True, u'version': u'0.2.0', u'result': u'malicious (high confidence)', u'update': u'20170317'}, u'Microsoft': {u'detected': False, u'version': u'1.1.13504.0', u'result': None, u'update': u'20170322'}, u'SUPERAntiSpyware': {u'detected': False, u'version': u'5.6.0.1032', u'result': None, u'update': u'20170322'}, u'ZoneAlarm': {u'detected': True, u'version': u'1.0', u'result': u'UDS:DangerousObject.Multi.Generic', u'update': u'20170322'}, u'GData': {u'detected': True, u'version': u'A:25.11329B:25.9141', u'result': u'Trojan.GenericKD.3181270', u'update': u'20170322'}, u'AhnLab-V3': {u'detected': False, u'version': u'3.8.3.16811', u'result': None, u'update': u'20170322'}, u'ALYac': {u'detected': True, u'version': u'1.0.1.9', u'result': u'Trojan.GenericKD.3181270', u'update': u'20170322'}, u'AVware': {u'detected': True, u'version': u'1.5.0.42', u'result': u'Trojan.Win32.Generic!BT', u'update': u'20170322'}, u'VBA32': {u'detected': True, u'version': u'3.12.26.4', u'result': u'suspected of Trojan.Downloader.gen.h', u'update': u'20170321'}, u'Panda': {u'detected': False, u'version': u'4.6.4.2', u'result': None, u'update': u'20170321'}, u'Zoner': {u'detected': False, u'version': u'1.0', u'result': None, u'update': u'20170322'}, u'Rising': {u'detected': True, u'version': u'28.0.0.1', u'result': u'Trojan.Generic (cloud:CFUAmLogUPN) ', u'update': u'20170322'}, u'Yandex': {u'detected': False, u'version': u'5.5.1.3', u'result': None, u'update': u'20170321'}, u'SentinelOne': {u'detected': False, u'version': u'1.0.0.2', u'result': None, u'update': u'20170315'}, u'Fortinet': {u'detected': True, u'version': u'5.4.233.0', u'result': u'W32/Dloader.X!tr', u'update': u'20170322'}, u'AVG': {u'detected': True, u'version': u'16.0.0.4769', u'result': u'Downloader.Generic14.AMDI', u'update': u'20170322'}, u'Paloalto': {u'detected': True, u'version': u'1.0', u'result': u'generic.ml', u'update': u'20170322'}, u'CrowdStrike': {u'detected': True, u'version': u'1.0', u'result': u'malicious_confidence_95% (W)', u'update': u'20170130'}, u'Qihoo-360': {u'detected': True, u'version': u'1.0.0.1120', u'result': u'HEUR/QVM11.1.Malware.Gen', u'update': u'20170322'}}}Rules of yara are: 
+PackerUPX_CompresorGratuito_wwwupxsourceforgenet Lab_01-3.malware
+UPX_wwwupxsourceforgenet_additional Lab_01-3.malware
+yodas_Protector_v1033_dllocx_Ashkbiz_Danehkar_h Lab_01-3.malware
+UPX_v0896_v102_v105_v124_Markus_Laszlo_overlay Lab_01-3.malware
+UPX_v0896_v102_v105_v124_Markus_Laszlo_overlay_additional Lab_01-3.malware
+UPX_wwwupxsourceforgenet Lab_01-3.malware
+UPXv20MarkusLaszloReiser Lab_01-3.malware
+UPXV200V290MarkusOberhumerLaszloMolnarJohnReiser Lab_01-3.malware
+IsPE32 Lab_01-3.malware
+IsConsole Lab_01-3.malware
+IsPacked Lab_01-3.malware
